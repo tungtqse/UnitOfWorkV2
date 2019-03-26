@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericRepositoryandUoW", "GenericRepositoryandUoW\GenericRepositoryandUoW.csproj", "{690FF603-3BD2-4F4C-B845-C8E1F27F0839}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainService", "DomainService\DomainService.csproj", "{06FA51C7-D12B-4AA9-A96A-BB9A9D35C9A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{690FF603-3BD2-4F4C-B845-C8E1F27F0839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{690FF603-3BD2-4F4C-B845-C8E1F27F0839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{690FF603-3BD2-4F4C-B845-C8E1F27F0839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FA51C7-D12B-4AA9-A96A-BB9A9D35C9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FA51C7-D12B-4AA9-A96A-BB9A9D35C9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FA51C7-D12B-4AA9-A96A-BB9A9D35C9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FA51C7-D12B-4AA9-A96A-BB9A9D35C9A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
